@@ -3,7 +3,8 @@
 2. In the same 'sample data' file, you have an Excel exercise you need to complete. Please do the same and share a screenshot once you complete it. (In the chat itself)
 
 Submission Requirements:
- - Upload an explanatory video of your Power BI dashboard to YouTube. 
+ - Upload an explanatory video of your Power BI dashboard to YouTube.
+link- https://youtu.be/YaK2wMPJy6E?si=SfDoSUb538gE2Y4p 
  - Make sure the video includes your voice explaining the dashboard's functionality and features you created.
 - Share the link with me on this chat itself. (Remember to set the video as 'Public' so that our company and partners can review it)
  - Additionally, please send a soft copy of the Power BI dashboard you created. (here in chat itself)
